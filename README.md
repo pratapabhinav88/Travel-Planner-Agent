@@ -3,7 +3,7 @@ A 4-week guided internship program conducted under IBM SkillsBuild in collaborat
 
 ## 📑 Table of Contents
 
-1. [Overview](#overview)
+1. [Overview](##overview)
 2. [Duration](#duration)
 3. [Learning Objectives](#learning-objectives)
 4. [Technologies Used](#technologies-used)
@@ -64,7 +64,7 @@ To suggest destinations, build itineraries, and recommend transport and accommod
 * IBM Cloud navigation and service deployment
 * Hands-on experience with Granite foundation models
 * Problem-solving through project-based learning
-*Technical documentation and reporting
+* Technical documentation and reporting
 
 ## 📜 Certificate
 * A digital certificate is issued upon successful completion of the 4-week internship by IBM SkillsBuild and Edunet Foundation.
